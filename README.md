@@ -23,14 +23,14 @@ Ejemplo:
 
 # 🛠️ Tecnologías utilizadas
 
-| Tecnología | Uso |
-|------------|-----|
-| Node.js | Backend |
-| Express | Servidor |
-| MySQL | Base de datos |
-| EJS / HTML | Frontend |
-| dotenv | Variables de entorno |
-| Nodemon | Desarrollo |
+| Tecnología |         Uso          |
+|------------|----------------------|
+| Node.js    | Backend              |
+| Express    | Servidor             |
+| MySQL      | Base de datos        |
+| EJS / HTML | Frontend             |
+| dotenv     | Variables de entorno |
+| Nodemon    | Desarrollo           |
 
 ---
 
@@ -197,15 +197,6 @@ Jesus Felipe Aviles
 # 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
-
-
-# 🎨 Badges opcionales
-
-```md
-![Node.js](https://img.shields.io/badge/Node.js-18-green)
-![Express](https://img.shields.io/badge/Express-Backend-black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-```
 
 ```
 ```
